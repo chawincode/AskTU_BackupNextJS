@@ -1,0 +1,19 @@
+ul {
+    padding: 0;
+}
+div1 {
+    background-color: #484F62;
+}
+i {
+    color: #E0E0E0;
+}
+ul li a:hover {
+    cursor: pointer;
+}
+span {
+    color: #E0E0E0;
+    top: 10;
+}
+li {
+    line-height: 3.5;
+}

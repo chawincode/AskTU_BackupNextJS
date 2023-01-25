@@ -1,0 +1,93 @@
+
+.App {
+  background-color: white;
+}
+
+.home {
+  margin-left: 2%;
+   align-items: center;
+   width: 80vw;
+   height: 100vh;
+   background: #F5F7FB;
+ }
+.Auth-form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: #8B97B5;
+}
+
+.Auth-form {
+  width: 28.23%;
+  height: 63.98%;
+  box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.Auth-form-content {
+  padding-left: 12%;
+  padding-right: 12%;
+}
+
+
+label {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #757575;
+  font-family: 'Promptlight';
+  margin-top: 7.37%;
+}
+.fontlabel {
+  font-family: 'Promptlight'
+  
+}
+.fonthead {
+
+  font-family: 'PromptBold';
+  
+  font-size: 64px;
+
+  font-weight: 800;
+
+  
+
+}
+.head { 
+  display: flex;
+  flex-direction: column;
+  margin-left: 3%;
+  margin-top: 5%;
+
+
+  
+
+}
+.space {
+  display: flex;
+  flex-direction: row;
+
+
+  
+
+}
+
+
+
+@media screen and (max-width: 768px) {
+  .Auth-form {
+    width: 60.14%;
+    height: 65.02%;
+  }
+  .fonthead {
+    font-size: 13px;
+  }
+  .underhead {
+    font-size: 8px ;
+  }
+}
