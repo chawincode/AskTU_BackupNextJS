@@ -1,7 +1,7 @@
 import React from "react";
 import SideBar from "../SideBar";
 
-function Home() {
+function Login() {
     return (
         <div className="column">
             <SideBar />
@@ -9,4 +9,4 @@ function Home() {
     )
 }
 
-export default Home;
+export default Login;
