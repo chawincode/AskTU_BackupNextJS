@@ -3,7 +3,9 @@ import SideBar from "../SideBar";
 
 function Answer() {
     return (
-        <SideBar />
+        <body>
+            <SideBar />
+        </body>
     )
 }
 
