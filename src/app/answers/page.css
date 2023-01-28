@@ -1,0 +1,9 @@
+.body{
+    background: #ffffff;
+}
+.head{
+    color: black;
+    background-color: black;
+    position: relative;
+    left: 30px;
+}
